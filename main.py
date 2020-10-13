@@ -1,6 +1,6 @@
 # practice scraping websites for info. 
 #
-# scrape top movies section of imdb and data as tsv file. 
+# scrape top movies section of imdb and store data as tsv file. 
 
 import requests
 from bs4 import BeautifulSoup
